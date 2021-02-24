@@ -1,4 +1,4 @@
-package me.marcusslover.mobexmaple;
+package me.marcusslover.example;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
