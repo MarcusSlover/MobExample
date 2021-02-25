@@ -1,3 +1,6 @@
 name: MobExample
-main: me.marcusslover.mobexample.MobExample
+main: me.marcusslover.example.MobExample
 version: 1.0
+
+commands:
+  pet:
