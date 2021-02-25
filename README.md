@@ -1,0 +1,2 @@
+# MobExample
+A fun plugin.
